@@ -7,15 +7,15 @@
             "text": "Connect Me",
             "link": "https://www.linkedin.com/in/hayko1995/"
         },
-        "image": "assets/images/profile-image.png",
+        "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/profile-image.png",
         "contacts": [
             {
-                "icon": "assets/icons/linkedin.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/linkedin.svg",
                 "type": "linkedin",
                 "link": "https://www.linkedin.com/in/hayko1995/"
             },
             {
-                "icon": "assets/icons/github.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/github.svg",
                 "type": "github",
                 "link": "https://github.com/hayko1995"
             }
@@ -24,28 +24,28 @@
     "aboutMe": {
         "title": "Interested in learning more about me?",
         "description": "🚀 System Developer & Team Lead \nWith 10+ years in mobile app development, I've evolved into a Mobile Developer and Team Lead. I'm passionate about clean code and effective team collaboration, striving for top-tier mobile apps. Beyond coding, I'm an educator, dedicated to sharing knowledge and inspiring others. Let's connect to innovate in the mobile app world!\n\n✍️ Tech Enthusiast & Educator 📚\nIn addition to app development, I'm an enthusiastic writer and educator. My recent Medium articles delve into boosting productivity with Flutter modularization. I'm deeply committed to creating a supportive learning environment and have guest taught, igniting students' coding passion. Connect with me for tech innovation and collaborative learning!\n\nBy the way, I'm available for freelance projects, so please feel free to get in touch and introduce yourself! I assure you, I'm approachable and friendly 😉",
-        "image": "assets/images/profile_phot.jpg"
+        "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/profile_phot.jpg"
     },
     "services": {
         "text": "The services I am can help you:",
         "items": [
             {
-                "icon": "assets/icons/mobile.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/mobile.svg",
                 "title": "Mobile and Desktop Development",
                 "description": "Create seamless mobile experiences, custom solutions"
             },
             {
-                "icon": "assets/icons/fullstack.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/fullstack.svg",
                 "title": "Full-Stack Development",
                 "description": "End-to-end solutions, frontend to backend development"
             },
             {
-                "icon": "assets/icons/consulting.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/consulting.svg",
                 "title": "Development Consulting",
                 "description": "Expert guidance for successful project outcomes"
             },
             {
-                "icon": "assets/icons/robot.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/robot.svg",
                 "title": "Robot Development",
                 "description": "Expert guidance for successful project outcomes"
             }
@@ -56,57 +56,57 @@
         "items": [
             {
                 "text": "Python",
-                "image": "assets/images/python.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/python.png",
                 "isBlack": false
             },
             {
                 "text": "PostgreSQL",
-                "image": "assets/images/postgresql.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/postgresql.png",
                 "isBlack": false
             },
             {
                 "text": "MYSQL",
-                "image": "assets/images/mysql.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/mysql.png",
                 "isBlack": false
             },
             {
                 "text": "AWS",
-                "image": "assets/images/AWS.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/AWS.png",
                 "isBlack": false
             },
             {
                 "text": "docker",
-                "image": "assets/images/docker.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/docker.png",
                 "isBlack": true
             },
             {
                 "text": "k8s",
-                "image": "assets/images/k8s.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/k8s.png",
                 "isBlack": true
             },
             {
                 "text": "ROS",
-                "image": "assets/images/rosLarge.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/rosLarge.png",
                 "isBlack": true
             },
             {
                 "text": "Isaac",
-                "image": "assets/images/Isaac.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/Isaac.png",
                 "isBlack": true
             },
             {
                 "text": "OpenCV",
-                "image": "assets/images/opencv.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/opencv.png",
                 "isBlack": true
             },
             {
                 "text": "Flutter",
-                "image": "assets/images/flutter.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/flutter.png",
                 "isBlack": false
             },
             {
                 "text": "Teaching",
-                "image": "assets/images/teaching.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/teaching.png",
                 "isBlack": true
             }
         ]
@@ -115,28 +115,28 @@
         "text": "Here's a concise overview of my most recent experiences:",
         "items": [
             {
-                "logo": "assets/images/rpe_controls_logo.jpg",
+                "logo": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/rpe_controls_logo.jpg",
                 "title": "Senior Software Engineer",
                 "description": "Led the startup phase of RPE Controls for the conversion of traditional buildings into smart buildings utilizing IoT devices. Managed the implementation and integration of IoT solutions aimed at enhancing building automation and efficiency, ensuring seamless operation and optimal performance of smart building technologies",
                 "startDate": "2023-03-01",
                 "endDate": null
             },
             {
-                "logo": "assets/images/boosight.jpg",
+                "logo": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/boosight.jpg",
                 "title": "Senior Software Engineer",
                 "description": "We're developing a comprehensive service comparison tool tailored for Armenia, designed to empower consumers with accurate and detailed information. Our platform will enable users to compare various services effortlessly, from internet providers and utilities to insurance plans and financial services. Imagine a user-friendly interface where Armenians can quickly find and compare different options based on price, features, and customer reviews. This tool aims to simplify decision-making, ensuring transparency and helping users make informed choices that best suit their needs. Whether you're looking for the best internet package or the most reliable insurance coverage, our service comparison tool for Armenia is your go-to resource for making smart decisions.",
                 "startDate": "2023-01-01",
                 "endDate": "2023-06-31"
             },
             {
-                "logo": "assets/images/intellectika_logo.jpg",
+                "logo": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/intellectika_logo.jpg",
                 "title": "Computer Vision Engineer",
                 "description": "Intellectika is an innovative business integrator and supplier of comprehensive business solutions. The company has acquired a reputation as an expert in modeling and building information systems and highly complex hardware and software systems based on solutions from leaders in the global and Russian IT markets.",
                 "startDate": "2021-06-01",
                 "endDate": "2023-11-30"
             },
             {
-                "logo": "assets/images/puzl_logo.jpg",
+                "logo": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/puzl_logo.jpg",
                 "title": "AI/ML and Robotic Enginer",
                 "description": "We're pioneering robotics tailored for large and medium-sized supermarkets like Walmart. Our robots streamline inventory management, restocking shelves, and enhancing customer service. Imagine autonomous machines effortlessly navigating aisles, ensuring shelves are always stocked and freeing up staff to focus on customer needs. These robots aren't just efficient—they're designed to integrate seamlessly into the shopping experience, setting new standards for convenience and service in modern retail environments.",
                 "startDate": "2018-9-01",
@@ -157,7 +157,7 @@
                     "Git",
                     "Docker"
                 ],
-                "image": "assets/images/finflow.jpg",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/finflow.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.boosigh.finflow"
             },
             {
@@ -172,7 +172,7 @@
                     "Prometeus",
                     "Docker"
                 ],
-                "image": "assets/images/Telegrambot.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/Telegrambot.png",
                 "link": ""
             },
             {
@@ -187,7 +187,7 @@
                     "Payment-Gateway",
                     "E-Wallet"
                 ],
-                "image": "https://api.laam.my.id/assets/images/projects/wigo-app.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/crm.png",
                 "link": "https://www.evraz.com/en/"
             },
             {
@@ -203,7 +203,7 @@
                     "Pytorch",
                     "Tensorflow"
                 ],
-                "image": "assets/images/morinet.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/morinet.png",
                 "link": "https://moorinet.ru/"
             }, 
             {
@@ -220,7 +220,7 @@
                     "YOLO",
                     "Jetson"
                 ],
-                "image": "assets/images/puzl_logo_main.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/puzl_logo_main.png",
                 "link": "https://moorinet.ru/"
             },
             {
@@ -237,7 +237,7 @@
                     "Depth Camera",
                     "Lidar"
                 ],
-                "image": "assets/images/robot.jpg",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/robot.jpg",
                 "link": ""
             }
         ]
@@ -249,12 +249,12 @@
             "text": "You can also find me on these platforms!",
             "items": [
                 {
-                    "icon": "assets/icons/linkedin.svg",
+                    "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/linkedin.svg",
                     "type": "linkedin",
                     "link": "https://www.linkedin.com/in/hayko1995/"
                 },
                 {
-                    "icon": "assets/icons/github.svg",
+                    "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/github.svg",
                     "type": "github",
                     "link": "https://github.com/hayko1995"
                 }
@@ -267,20 +267,20 @@
             {
                 "title": "Flutter Web Responsive: Crafting Adaptive UIs for Mobile, Tablet, and Web",
                 "description": "Unlock the potential of Flutter for web development with responsive design techniques, ensuring a seamless user experience.",
-                "image": "https://api.laam.my.id/assets/images/articles/flutter-responsive.png",
+                "image": "https://api.laam.my.id/https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/articles/flutter-responsive.png",
                 "link": "https://medium.com/@luthfiarifin/flutter-web-responsive-crafting-adaptive-uis-for-mobile-tablet-and-web-211effaa2445"
             },
             {
                 "title": "Boosting Flutter Productivity Through Modularization",
                 "description": "🚀 The process of dividing a large codebase into smaller, self-contained modules.",
-                "image": "https://api.laam.my.id/assets/images/articles/flutter-modularization.jpg",
+                "image": "https://api.laam.my.id/https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/articles/flutter-modularization.jpg",
                 "link": "https://medium.com/@luthfiarifin/boosting-flutter-productivity-through-modularization-fc494bba82d5"
             }
         ],
         "other": {
             "title": "Explore",
             "description": "Ready for more thrilling reads?",
-            "image": "https://api.laam.my.id/assets/images/articles/other.jpg",
+            "image": "https://api.laam.my.id/https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/articles/other.jpg",
             "link": "https://medium.com/@luthfiarifin"
         }
     },
