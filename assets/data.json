@@ -1,0 +1,290 @@
+{
+    "header": {
+        "title": "Hi, I'm Hayk",
+        "description": "Experienced System Developer and Team Lead with a passion for crafting high-quality System development. Skilled in code review, task management, and clean architecture. Committed to fostering a collaborative learning environment. Author on Medium, sharing insights on system development.",
+        "location": "Armenia, Yerevan",
+        "linkedin": {
+            "text": "Connect Me",
+            "link": "https://www.linkedin.com/in/hayko1995/"
+        },
+        "image": "assets/images/profile-image.png",
+        "contacts": [
+            {
+                "icon": "assets/icons/linkedin.svg",
+                "type": "linkedin",
+                "link": "https://www.linkedin.com/in/hayko1995/"
+            },
+            {
+                "icon": "assets/icons/github.svg",
+                "type": "github",
+                "link": "https://github.com/hayko1995"
+            }
+        ]
+    },
+    "aboutMe": {
+        "title": "Interested in learning more about me?",
+        "description": "🚀 System Developer & Team Lead \nWith 10+ years in mobile app development, I've evolved into a Mobile Developer and Team Lead. I'm passionate about clean code and effective team collaboration, striving for top-tier mobile apps. Beyond coding, I'm an educator, dedicated to sharing knowledge and inspiring others. Let's connect to innovate in the mobile app world!\n\n✍️ Tech Enthusiast & Educator 📚\nIn addition to app development, I'm an enthusiastic writer and educator. My recent Medium articles delve into boosting productivity with Flutter modularization. I'm deeply committed to creating a supportive learning environment and have guest taught, igniting students' coding passion. Connect with me for tech innovation and collaborative learning!\n\nBy the way, I'm available for freelance projects, so please feel free to get in touch and introduce yourself! I assure you, I'm approachable and friendly 😉",
+        "image": "assets/images/profile_phot.jpg"
+    },
+    "services": {
+        "text": "The services I am can help you:",
+        "items": [
+            {
+                "icon": "assets/icons/mobile.svg",
+                "title": "Mobile and Desktop Development",
+                "description": "Create seamless mobile experiences, custom solutions"
+            },
+            {
+                "icon": "assets/icons/fullstack.svg",
+                "title": "Full-Stack Development",
+                "description": "End-to-end solutions, frontend to backend development"
+            },
+            {
+                "icon": "assets/icons/consulting.svg",
+                "title": "Development Consulting",
+                "description": "Expert guidance for successful project outcomes"
+            },
+            {
+                "icon": "assets/icons/robot.svg",
+                "title": "Robot Development",
+                "description": "Expert guidance for successful project outcomes"
+            }
+        ]
+    },
+    "skills": {
+        "text": "The skills, tools and technologies I am really good at:",
+        "items": [
+            {
+                "text": "Python",
+                "image": "assets/images/python.png",
+                "isBlack": false
+            },
+            {
+                "text": "PostgreSQL",
+                "image": "assets/images/postgresql.png",
+                "isBlack": false
+            },
+            {
+                "text": "MYSQL",
+                "image": "assets/images/mysql.png",
+                "isBlack": false
+            },
+            {
+                "text": "AWS",
+                "image": "assets/images/AWS.png",
+                "isBlack": false
+            },
+            {
+                "text": "docker",
+                "image": "assets/images/docker.png",
+                "isBlack": true
+            },
+            {
+                "text": "k8s",
+                "image": "assets/images/k8s.png",
+                "isBlack": true
+            },
+            {
+                "text": "ROS",
+                "image": "assets/images/rosLarge.png",
+                "isBlack": true
+            },
+            {
+                "text": "Isaac",
+                "image": "assets/images/Isaac.png",
+                "isBlack": true
+            },
+            {
+                "text": "OpenCV",
+                "image": "assets/images/opencv.png",
+                "isBlack": true
+            },
+            {
+                "text": "Flutter",
+                "image": "assets/images/flutter.png",
+                "isBlack": false
+            },
+            {
+                "text": "Teaching",
+                "image": "assets/images/teaching.png",
+                "isBlack": true
+            }
+        ]
+    },
+    "experiences": {
+        "text": "Here's a concise overview of my most recent experiences:",
+        "items": [
+            {
+                "logo": "assets/images/rpe_controls_logo.jpg",
+                "title": "Senior Software Engineer",
+                "description": "Led the startup phase of RPE Controls for the conversion of traditional buildings into smart buildings utilizing IoT devices. Managed the implementation and integration of IoT solutions aimed at enhancing building automation and efficiency, ensuring seamless operation and optimal performance of smart building technologies",
+                "startDate": "2023-03-01",
+                "endDate": null
+            },
+            {
+                "logo": "assets/images/boosight.jpg",
+                "title": "Senior Software Engineer",
+                "description": "We're developing a comprehensive service comparison tool tailored for Armenia, designed to empower consumers with accurate and detailed information. Our platform will enable users to compare various services effortlessly, from internet providers and utilities to insurance plans and financial services. Imagine a user-friendly interface where Armenians can quickly find and compare different options based on price, features, and customer reviews. This tool aims to simplify decision-making, ensuring transparency and helping users make informed choices that best suit their needs. Whether you're looking for the best internet package or the most reliable insurance coverage, our service comparison tool for Armenia is your go-to resource for making smart decisions.",
+                "startDate": "2023-01-01",
+                "endDate": "2023-06-31"
+            },
+            {
+                "logo": "assets/images/intellectika_logo.jpg",
+                "title": "Computer Vision Engineer",
+                "description": "Intellectika is an innovative business integrator and supplier of comprehensive business solutions. The company has acquired a reputation as an expert in modeling and building information systems and highly complex hardware and software systems based on solutions from leaders in the global and Russian IT markets.",
+                "startDate": "2021-06-01",
+                "endDate": "2023-11-30"
+            },
+            {
+                "logo": "assets/images/puzl_logo.jpg",
+                "title": "AI/ML and Robotic Enginer",
+                "description": "We're pioneering robotics tailored for large and medium-sized supermarkets like Walmart. Our robots streamline inventory management, restocking shelves, and enhancing customer service. Imagine autonomous machines effortlessly navigating aisles, ensuring shelves are always stocked and freeing up staff to focus on customer needs. These robots aren't just efficient—they're designed to integrate seamlessly into the shopping experience, setting new standards for convenience and service in modern retail environments.",
+                "startDate": "2018-9-01",
+                "endDate": "2022-01-30"
+            }
+        ]
+    },
+    "projects": {
+        "text": "Here are a few of the noteworthy projects I've developed:",
+        "items": [
+            {
+                "name": "FINFLOW",
+                "description": "Finflow is a mobile app designed to help users track and manage their budget effortlessly. It offers intuitive features like expense tracking, budget planning, and financial insights, all presented in a user-friendly interface. With real-time updates and customizable categories, Finflow helps you stay on top of your spending and make informed financial decisions.",
+                "technologies": [
+                    "Flutter",
+                    "Flask",
+                    "SQLAlchemy",
+                    "Git",
+                    "Docker"
+                ],
+                "image": "assets/images/finflow.jpg",
+                "link": "https://play.google.com/store/apps/details?id=com.boosigh.finflow"
+            },
+            {
+                "name": "Telegram ChatBot For lawyers",
+                "description": "I developed a AI Telegram ChatBot for lawyers that automates client onboarding, appointment scheduling, and document management. It enhances communication with secure, encrypted interactions and integrates with legal tools to streamline workflows and improve client engagement.",
+                "technologies": [
+                    "Telegram",
+                    "Django",
+                    "Langchain",
+                    "FastAPI",
+                    "Git",
+                    "Prometeus",
+                    "Docker"
+                ],
+                "image": "assets/images/Telegrambot.png",
+                "link": ""
+            },
+            {
+                "name": "CRM for EVRAZ",
+                "description": "WIGO App is your ultimate travel companion. Discover destinations, activities, and dining worldwide with interactive maps and guides. Seamlessly plan and enjoy your journey.",
+                "technologies": [
+                    "Flutter",
+                    "Nest.js",
+                    "Git",
+                    "Dart",
+                    "Typescript",
+                    "Payment-Gateway",
+                    "E-Wallet"
+                ],
+                "image": "https://api.laam.my.id/assets/images/projects/wigo-app.png",
+                "link": "https://www.evraz.com/en/"
+            },
+            {
+                "name": "Morrinet",
+                "description": "MOORiNET predicts the development of an emergency situation and improves the safety of ship mooring using Lidar, laser scanner and machine vision technologies. Allows you to control the longitudinal displacement and drift of the vessel, archives all data. It has situational center, analysis and analytics tools. Easily integrated with related systems.",
+                "technologies": [
+                    "Python",
+                    "ROS",
+                    "Open3D",
+                    "Lidar",
+                    "Jetson",
+                    "AI/ML PointPillars",
+                    "Pytorch",
+                    "Tensorflow"
+                ],
+                "image": "assets/images/morinet.png",
+                "link": "https://moorinet.ru/"
+            }, 
+            {
+                "name": "Puzl AI",
+                "description": "Puzl's AI helps independent supermarkets and C-stores see their gross margins 12 weeks in advance, improving profitability, cash flow, and competitiveness.",
+                "technologies": [
+                    "Python",
+                    "Tensorflow",
+                    "Pytorch",
+                    "Flask",
+                    "Django",
+                    "Kubernetis",
+                    "AWS",
+                    "YOLO",
+                    "Jetson"
+                ],
+                "image": "assets/images/puzl_logo_main.png",
+                "link": "https://moorinet.ru/"
+            },
+            {
+                "name": "Puzl Robotic",
+                "description": "I designed a robot for Puzl Company that helps supermarkets by streamlining and optimizing their internal processes",
+                "technologies": [
+                    "Python",
+                    "C++",
+                    "ROS",
+                    "NVIDIA ISSAC",
+                    "Arduino",
+                    "Fusion360",
+                    "Solidworks",
+                    "Depth Camera",
+                    "Lidar"
+                ],
+                "image": "assets/images/robot.jpg",
+                "link": ""
+            }
+        ]
+    },
+    "contact": {
+        "text": "Looking forward to what's ahead! Whether you're seeking a developer, have questions, or just want to connect, please don't hesitate to reach out.",
+        "email": "haykhakobyan95@gmail.com",
+        "others": {
+            "text": "You can also find me on these platforms!",
+            "items": [
+                {
+                    "icon": "assets/icons/linkedin.svg",
+                    "type": "linkedin",
+                    "link": "https://www.linkedin.com/in/hayko1995/"
+                },
+                {
+                    "icon": "assets/icons/github.svg",
+                    "type": "github",
+                    "link": "https://github.com/hayko1995"
+                }
+            ]
+        }
+    },
+    "article": {
+        "text": "Here are some of the articles I've authored:",
+        "items": [
+            {
+                "title": "Flutter Web Responsive: Crafting Adaptive UIs for Mobile, Tablet, and Web",
+                "description": "Unlock the potential of Flutter for web development with responsive design techniques, ensuring a seamless user experience.",
+                "image": "https://api.laam.my.id/assets/images/articles/flutter-responsive.png",
+                "link": "https://medium.com/@luthfiarifin/flutter-web-responsive-crafting-adaptive-uis-for-mobile-tablet-and-web-211effaa2445"
+            },
+            {
+                "title": "Boosting Flutter Productivity Through Modularization",
+                "description": "🚀 The process of dividing a large codebase into smaller, self-contained modules.",
+                "image": "https://api.laam.my.id/assets/images/articles/flutter-modularization.jpg",
+                "link": "https://medium.com/@luthfiarifin/boosting-flutter-productivity-through-modularization-fc494bba82d5"
+            }
+        ],
+        "other": {
+            "title": "Explore",
+            "description": "Ready for more thrilling reads?",
+            "image": "https://api.laam.my.id/assets/images/articles/other.jpg",
+            "link": "https://medium.com/@luthfiarifin"
+        }
+    },
+    "bottom": {
+        "text": "Created with ♥ by [@hayko1995](https://www.linkedin.com/in/hayko1995/) using [Flutter & Clean Arch](https://github.com/luthfiarifin/personal-app)"
+    }
+}
