@@ -153,7 +153,7 @@ class _HomePageState extends State<HomePage> {
         AboutMeLayout(aboutMe: _data!.aboutMe),
         ServicesLayout(services: _data!.services),
         SkillsLayout(skills: _data!.skills),
-        ExperiencesLayout(experiences: _data!.experiences), 
+        // ExperiencesLayout(experiences: _data!.experiences), 
         ProjectsLayout(projects: _data!.projects),
         ContactLayout(contact: _data!.contact),
         BottomLayout(bottom: _data!.bottom),
@@ -164,10 +164,10 @@ class _HomePageState extends State<HomePage> {
       _ToolbarItem(text: 'About', onTap: () => _changeToIndex(1)),
       _ToolbarItem(text: 'Services', onTap: () => _changeToIndex(2)),
       _ToolbarItem(text: 'Skills', onTap: () => _changeToIndex(3)),
-      _ToolbarItem(text: 'Experiance', onTap: () => _changeToIndex(4)),
-      _ToolbarItem(text: 'Projects', onTap: () => _changeToIndex(5)),
-      _ToolbarItem(text: 'Blog', onTap: () => _changeToIndex(6)),
-      _ToolbarItem(text: 'Contact', onTap: () => _changeToIndex(7)),
+      // _ToolbarItem(text: 'Experiance', onTap: () => _changeToIndex(4)),
+      _ToolbarItem(text: 'Projects', onTap: () => _changeToIndex(4)),
+      _ToolbarItem(text: 'Blog', onTap: () => _changeToIndex(5)),
+      _ToolbarItem(text: 'Contact', onTap: () => _changeToIndex(6)),
     ];
   }
 
